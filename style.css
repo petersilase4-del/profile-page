@@ -1,0 +1,24 @@
+/* 1. Change the font for the whole page */
+/* 2. Set background colour to a light colour */
+/* 3. Add padding around the body content */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f8ff; /* This is 'AliceBlue', a very light blue */
+    padding: 30px; 
+}
+
+/* 4. Centre your h1 heading */
+h1 {
+    text-align: center;
+}
+
+/* 5. Give your list items a different colour */
+li {
+    color: #2e8b57; /* A nice SeaGreen colour */
+}
+
+/* 6. Challenge: Add a border to your image */
+img {
+    border: 5px solid #333333; /* A 5-pixel thick, solid, dark grey border */
+    border-radius: 8px; /* Extra flair: This rounds the corners of the border! */
+}
